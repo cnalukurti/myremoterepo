@@ -1,4 +1,8 @@
 test.info
 *.log
 test/
-
+3.java.swn
+3.java.swo
+.3.java.swn
+.3.java.swo
+.3.java.swp
